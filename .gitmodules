@@ -1,0 +1,3 @@
+[submodule "submodules/solvers"]
+	path = submodules/solvers
+	url = https://github.com/ThEngel14/solvers
